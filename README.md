@@ -1,16 +1,16 @@
-# Ryan Lee Hockey Profile
+# Ryan Lee Hockey - GitHub Pages
 
-GitHub Pages-ready static site.
+## Required structure
 
-## Files
-- `index.html` — page
-- `style.css` — responsive styling
-- `script.js` — points chart
-- `images/` — put the player photo here as `ryan-lee.jpg`
-- `videos/` — put highlight videos here
+test_hockey/
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   └── ryan-lee.jpg
+└── videos/
+    ├── ryan-goal-highlights.mp4
+    └── ryan-world-invite.mp4
 
-## GitHub Pages
-Repository Settings → Pages → Deploy from branch → `main` → `/ (root)`.
-
-## Notes
-The page is a standalone reconstruction based on the publicly visible content and layout of the supplied site. Original photo/video assets are not included; replace the placeholders with assets you own or are licensed to use.
+The page is responsive and optimized for mobile.
+Configure GitHub Pages to deploy the main branch from / (root).
